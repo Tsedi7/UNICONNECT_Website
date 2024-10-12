@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "1738",
+      "username": "tsedenya",
+      "email": "tsedenyaemkedemealem@gmail.com",
+      "password": "tsed"
+    },
+    {
+      "id": "5ff8",
+      "username": "beza",
+      "email": "beza@gmail.com",
+      "password": "bbb"
+    },
+    {
+      "id": "e41e",
+      "username": "beza",
+      "password": "bbb"
+    },
+    {
+      "id": "e072",
+      "username": "tsedenya",
+      "password": "tsed"
+    },
+    {
+      "id": "3915",
+      "username": "tsedenya",
+      "password": "tsed"
+    },
+    {
+      "id": "934c",
+      "username": "bereket",
+      "email": "baby@gmail.com",
+      "password": "beki"
+    },
+    {
+      "id": "48d7",
+      "username": "bereket",
+      "password": "beki"
+    },
+    {
+      "id": "944b",
+      "username": "bereket",
+      "password": "beki"
+    }
+  ],
+  "registeredUsers": []
+}
